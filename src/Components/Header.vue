@@ -17,5 +17,10 @@ export default {
 </script>
 
 <style scoped>
+    header {
+        height: var(--header-height);
+        background-color: var(--dark-10);
 
+        display: flex;
+    }
 </style>
